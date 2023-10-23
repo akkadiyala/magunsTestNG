@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-20T13:26:05 IST" name="magnus.jalatechnologies" finished-at="2023-10-20T13:28:27 IST" duration-ms="141939">
+    <groups>
+    </groups>
+    <test started-at="2023-10-20T13:26:05 IST" name="Menu , popup, links and new employee" finished-at="2023-10-20T13:28:27 IST" duration-ms="141939">
+      <class name="Test.POPUPtest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.POPUPtest@6069db50]" started-at="2023-10-20T13:27:14 IST" name="setup" finished-at="2023-10-20T13:27:18 IST" duration-ms="3910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="popupopetaions()[pri:0, instance:Test.POPUPtest@6069db50]" started-at="2023-10-20T13:27:18 IST" name="popupopetaions" finished-at="2023-10-20T13:27:37 IST" duration-ms="19156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popupopetaions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.POPUPtest@6069db50]" started-at="2023-10-20T13:27:37 IST" name="tearDown" finished-at="2023-10-20T13:27:38 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.POPUPtest -->
+      <class name="Test.MoreTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.MoreTest@9597028]" started-at="2023-10-20T13:26:31 IST" name="setup" finished-at="2023-10-20T13:26:36 IST" duration-ms="4264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="moremenuopetaions()[pri:0, instance:Test.MoreTest@9597028]" started-at="2023-10-20T13:26:36 IST" name="moremenuopetaions" finished-at="2023-10-20T13:27:13 IST" duration-ms="37327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moremenuopetaions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.MoreTest@9597028]" started-at="2023-10-20T13:27:13 IST" name="tearDown" finished-at="2023-10-20T13:27:14 IST" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.MoreTest -->
+      <class name="Test.CREATENEWEMPLOYEE">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.CREATENEWEMPLOYEE@79924b]" started-at="2023-10-20T13:26:05 IST" name="setup" finished-at="2023-10-20T13:26:11 IST" duration-ms="6060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCreateEmployeewithallfileds()[pri:0, instance:Test.CREATENEWEMPLOYEE@79924b]" started-at="2023-10-20T13:26:11 IST" name="testCreateEmployeewithallfileds" finished-at="2023-10-20T13:26:17 IST" duration-ms="5109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateEmployeewithallfileds -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.CREATENEWEMPLOYEE@79924b]" started-at="2023-10-20T13:26:17 IST" name="tearDown" finished-at="2023-10-20T13:26:17 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.CREATENEWEMPLOYEE@79924b]" started-at="2023-10-20T13:26:17 IST" name="setup" finished-at="2023-10-20T13:26:21 IST" duration-ms="3654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCreateEmployeewithoutnameandnumber()[pri:0, instance:Test.CREATENEWEMPLOYEE@79924b]" started-at="2023-10-20T13:26:21 IST" name="testCreateEmployeewithoutnameandnumber" finished-at="2023-10-20T13:26:31 IST" duration-ms="10093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateEmployeewithoutnameandnumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.CREATENEWEMPLOYEE@79924b]" started-at="2023-10-20T13:26:31 IST" name="tearDown" finished-at="2023-10-20T13:26:31 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.CREATENEWEMPLOYEE -->
+      <class name="Test.Linkstest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.Linkstest@4efbca5a]" started-at="2023-10-20T13:27:38 IST" name="setup" finished-at="2023-10-20T13:27:42 IST" duration-ms="4382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Links()[pri:0, instance:Test.Linkstest@4efbca5a]" started-at="2023-10-20T13:27:42 IST" name="Links" finished-at="2023-10-20T13:28:27 IST" duration-ms="44320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Links -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.Linkstest@4efbca5a]" started-at="2023-10-20T13:28:27 IST" name="tearDown" finished-at="2023-10-20T13:28:27 IST" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.Linkstest -->
+    </test> <!-- Menu , popup, links and new employee -->
+  </suite> <!-- magnus.jalatechnologies -->
+</testng-results>
